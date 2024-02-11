@@ -7,10 +7,10 @@ method = "pam"
 init = "k-medoids++"  
 random_state = 0  
 
-# Training and Validation on FLEMENGHO Cohort
+# Model Training (iCOMPEER cohoer)
 cpet_clustering_training.ipynb
 
-# External Validation on EPOGH Cohort
+# External Validation (EPOGH cohort)
 cpet_clustering_validation.ipynb
 
 # Python
