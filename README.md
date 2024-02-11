@@ -15,7 +15,7 @@ cpet_clustering_training.ipynb
 cpet_clustering_validation.ipynb
 
 # Python
-All scripts have been tested with python version 3.9 environment
+All scripts have been tested with python version 3.9  
 
 # Libraries
 To install the required packages run "pip install -r requirements.txt". 
