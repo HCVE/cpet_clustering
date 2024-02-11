@@ -1,4 +1,5 @@
 # Multivariate time-series clustering of cardiopulmonary exercise test for cardiovascular risk stratification. 
+Implementation of k-medoids clustering model using dynamic time warping (DTW) on raw time series CPET tracings.
 
 # K-medoids model configuration
 number of clusters: 5  
