@@ -8,7 +8,7 @@ method = "pam"
 init = "k-medoids++"  
 random_state = 0  
 
-# Model Training (iCOMPEER cohoer)
+# Model Training (iCOMPEER cohort)
 cpet_clustering_training.ipynb
 
 # External Validation (EPOGH cohort)
