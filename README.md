@@ -11,7 +11,7 @@ random_state = 0
 # Model Training (iCOMPEER cohort)
 cpet_clustering_training.ipynb
 
-# External Validation (EPOGH cohort)
+# External Validation (FLEMENGHO cohort)
 cpet_clustering_validation.ipynb
 
 # Python
